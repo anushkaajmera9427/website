@@ -10,9 +10,9 @@ const siteConfig = {
     title: 'Student | Your Role',
     image: getAsset('images/anushkawebiste.png.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'Student at Christ University Bangalore \n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      "Bsc Economics with Data Science\n' +
       '\n' +
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
