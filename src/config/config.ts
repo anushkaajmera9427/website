@@ -7,7 +7,7 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Anushka Ajmera',
-    title: 'Student | Your Role',
+    title: 'Student at Christ University Bangalore| BSc Economics with Data Science',
     image: getAsset('images/anushkawebiste.png (1).jpeg'), // Customize or replace with your profile image
     description:
       'Student at Christ University Bangalore \n' +
