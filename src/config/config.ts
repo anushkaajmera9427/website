@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Anushka Ajmera',
     title: 'Student | Your Role',
-    image: getAsset('images/anushkawebiste.png.png'), // Customize or replace with your profile image
+    image: getAsset('images/anushkawebiste.png(1).png'), // Customize or replace with your profile image
     description:
       'Student at Christ University Bangalore \n' +
       '\n' +
